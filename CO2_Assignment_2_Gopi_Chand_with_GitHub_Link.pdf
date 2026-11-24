@@ -1,0 +1,845 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<<
+/Producer (pypdf)
+>>
+endobj
+2 0 obj
+<<
+/Type /Pages
+/Count 8
+/Kids [ 4 0 R 17 0 R 20 0 R 22 0 R 24 0 R 26 0 R 28 0 R 30 0 R ]
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 2 0 R
+>>
+endobj
+4 0 obj
+<<
+/Contents 5 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font <<
+/F1 6 0 R
+/F1-0 7 0 R
+/F1-1 8 0 R
+/F2 9 0 R
+/F2-0 10 0 R
+/F2-1 11 0 R
+/F3 12 0 R
+/F3-0 13 0 R
+/F4 14 0 R
+/F4-0 15 0 R
+>>
+/ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Annots [ 16 0 R ]
+/Parent 2 0 R
+>>
+endobj
+5 0 obj
+<<
+/Length 8667
+>>
+stream
+q
+q
+q 0 615.8898 595.2756 226.0 re W n
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 54.18898 750.5354 cm
+q
+.090196 .290196 .45098 rg
+BT 1 0 0 1 0 24 Tm /F2 16 Tf 20 TL 36.33682 0 Td (SAVEETHA INSTITUTE OF MEDICAL AND TECHNICAL) Tj T* 166.216 0 Td (SCIENCES) Tj T* -202.5528 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 722.5354 cm
+q
+.090196 .290196 .45098 rg
+BT 1 0 0 1 0 4 Tm /F2 16 Tf 20 TL 65.64882 0 Td (CO2 \226 ASSIGNMENT 2: COMPLETE ANSWERS) Tj T* -65.64882 0 Td ET
+Q
+Q
+q
+1 0 0 1 54.18898 702.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F1 9 Tf 12 TL (Course: C Programming \(CSA02\) | Maximum Marks: 50) Tj T* ET
+Q
+Q
+q
+1 0 0 1 80.7874 625.5354 cm
+q
+.85098 .894118 .92549 rg
+n 0 72 136.063 -72 re f*
+0 0 0 rg
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 6 59 Tm (Student Name) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 142.063 59 Tm (p. Gopi Chand) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 6 41 Tm (Register Number) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 142.063 41 Tm (1924260378) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 6 23 Tm (Department) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 142.063 23 Tm (AI and DS) Tj T* ET
+BT /F2 10 Tf 12 TL ET
+BT 1 0 0 1 6 5 Tm (Year) Tj T* ET
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 142.063 5 Tm (1st Year) Tj T* ET
+q
+1 J
+1 j
+.501961 .501961 .501961 RG
+.5 w
+n 0 72 m 433.7008 72 l S
+n 0 0 m 433.7008 0 l S
+n 0 0 m 0 72 l S
+n 433.7008 0 m 433.7008 72 l S
+n 0 54 m 433.7008 54 l S
+n 0 36 m 433.7008 36 l S
+n 0 18 m 433.7008 18 l S
+n 136.063 0 m 136.063 72 l S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 615.5354 cm
+Q
+q
+1 0 0 1 54.18898 585.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Note: Compile and run each program, attach your own output screenshots, and add the GitHub repository link required by) Tj T* (your assignment brief.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 562.5354 cm
+q
+.090196 .376471 .541176 rg
+BT 1 0 0 1 0 3 Tm /F2 12 Tf 15 TL (Q1 \226 Precedence, Associativity and Discount Bug \(6 Marks\)) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 520.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 27 Tm /F1 9 Tf 12 TL (Multiplication and division have higher precedence than addition and subtraction. Operators with equal precedence are) Tj T* (evaluated left to right. Use brackets and intermediate variables to make the intended bill calculation clear. Calculate gross) Tj T* (amount, discount, taxable amount, GST and final amount separately.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 490.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (A common bug is using count = count++ + 1. This modifies count without a valid sequencing rule and causes undefined) Tj T* (behaviour. Use count++ or count = count + 1, but not both in one expression.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 54.18898 323.5354 cm
+%PreformattedPara
+0 0 0 rg
+BT 1 0 0 1 0 154.8 Tm /F3 7.2 Tf 9 TL (#include <stdio.h>) Tj T* (int main\(void\) {) Tj T* (    double price, gross, discount, taxable, gst, total;) Tj T* (    int qty, senior;) Tj T* (    printf\("Enter price and quantity: "\);) Tj T* (    scanf\("%lf %d", &price, &qty\);) Tj T* (    printf\("Senior citizen? \(1=yes, 0=no\): "\);) Tj T* (    scanf\("%d", &senior\);) Tj T* (    gross = price * qty;) Tj T* (    discount = senior ? gross * 0.15 : 0.0;) Tj T* (    taxable = gross - discount;) Tj T* (    gst = taxable * 0.05;) Tj T* (    total = taxable + gst;) Tj T* (    if \(total > 1000.0\) total -= 50.0;) Tj T* (    printf\("Gross = %.2f\\\\nDiscount = %.2f\\\\nGST = %.2f\\\\nNet = %.2f\\\\n",) Tj T* (           gross, discount, gst, total\);) Tj T* (    return 0;) Tj T* (}) Tj T* ET
+Q
+q
+1 0 0 1 54.18898 293.5354 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 15 Tm /F1 9 Tf 12 TL (Sample: price = 200, quantity = 3, senior = 1 gives gross = Rs. 600.00, discount = Rs. 90.00, GST = Rs. 25.50 and net =) Tj T* (Rs. 535.50. Time complexity = O\(1\); extra space = O\(1\).) Tj T* ET
+Q
+Q
+ 
+
+Q
+Q
+q
+1 0.0 0.0 1 0.0 -24 cm
+0.0 0.0 595.2756 841.8898 re
+W
+n
+q
+0 0 595.2756 615.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-0 12 Tf
+14.4 TL
+ET
+q
+1 0 0 1 54.18898 750.5354 cm
+q
+0.090196 0.290196 0.45098 rg
+BT
+1 0 0 1 0 24 Tm
+/F2-0 16 Tf
+20 TL
+36.33682 0 Td
+(SAVEETHA INSTITUTE OF MEDICAL AND TECHNICAL) Tj
+T*
+166.216 0 Td
+(SCIENCES) Tj
+T*
+-202.5528 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 722.5354 cm
+q
+0.090196 0.290196 0.45098 rg
+BT
+1 0 0 1 0 4 Tm
+/F2-0 16 Tf
+20 TL
+65.64882 0 Td
+(CO2 \226 ASSIGNMENT 2\072 COMPLETE ANSWERS) Tj
+T*
+-65.64882 0 Td
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 702.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 3 Tm
+/F1-0 9 Tf
+12 TL
+(Course\072 C Programming \050CSA02\051 \174 Maximum Marks\072 50) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 80.7874 625.5354 cm
+q
+0.85098 0.894118 0.92549 rg
+n
+0 72 136.063 -72 re
+f*
+0 0 0 rg
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 59 Tm
+(Student Name) Tj
+T*
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 142.063 59 Tm
+(p\056 Gopi Chand) Tj
+T*
+ET
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 41 Tm
+(Register Number) Tj
+T*
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 142.063 41 Tm
+(1924260378) Tj
+T*
+ET
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 23 Tm
+(Department) Tj
+T*
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 142.063 23 Tm
+(AI and DS) Tj
+T*
+ET
+BT
+/F2-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 6 5 Tm
+(Year) Tj
+T*
+ET
+BT
+/F1-0 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 142.063 5 Tm
+(1st Year) Tj
+T*
+ET
+q
+1 J
+1 j
+0.501961 0.501961 0.501961 RG
+0.5 w
+n
+0 72 m
+433.7008 72 l
+S
+n
+0 0 m
+433.7008 0 l
+S
+n
+0 0 m
+0 72 l
+S
+n
+433.7008 0 m
+433.7008 72 l
+S
+n
+0 54 m
+433.7008 54 l
+S
+n
+0 36 m
+433.7008 36 l
+S
+n
+0 18 m
+433.7008 18 l
+S
+n
+136.063 0 m
+136.063 72 l
+S
+Q
+Q
+Q
+q
+1 0 0 1 54.18898 615.5354 cm
+Q
+q
+1 0 0 1 54.18898 585.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 15 Tm
+/F1-0 9 Tf
+12 TL
+(Note\072 Compile and run each program\054 attach your own output screenshots\054 and add the GitHub repository link required by) Tj
+T*
+(your assignment brief\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 562.5354 cm
+q
+0.090196 0.376471 0.541176 rg
+BT
+1 0 0 1 0 3 Tm
+/F2-0 12 Tf
+15 TL
+(Q1 \226 Precedence\054 Associativity and Discount Bug \0506 Marks\051) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 520.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 27 Tm
+/F1-0 9 Tf
+12 TL
+(Multiplication and division have higher precedence than addition and subtraction\056 Operators with equal precedence are) Tj
+T*
+(evaluated left to right\056 Use brackets and intermediate variables to make the intended bill calculation clear\056 Calculate gross) Tj
+T*
+(amount\054 discount\054 taxable amount\054 GST and final amount separately\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 490.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 15 Tm
+/F1-0 9 Tf
+12 TL
+(A common bug is using count \075 count\053\053 \053 1\056 This modifies count without a valid sequencing rule and causes undefined) Tj
+T*
+(behaviour\056 Use count\053\053 or count \075 count \053 1\054 but not both in one expression\056) Tj
+T*
+ET
+Q
+Q
+q
+1 0 0 1 54.18898 323.5354 cm
+0 0 0 rg
+BT
+1 0 0 1 0 154.8 Tm
+/F3-0 7.2 Tf
+9 TL
+(\043include \074stdio\056h\076) Tj
+T*
+(int main\050void\051 \173) Tj
+T*
+(    double price\054 gross\054 discount\054 taxable\054 gst\054 total\073) Tj
+T*
+(    int qty\054 senior\073) Tj
+T*
+(    printf\050\042Enter price and quantity\072 \042\051\073) Tj
+T*
+(    scanf\050\042\045lf \045d\042\054 \046price\054 \046qty\051\073) Tj
+T*
+(    printf\050\042Senior citizen\077 \0501\075yes\054 0\075no\051\072 \042\051\073) Tj
+T*
+(    scanf\050\042\045d\042\054 \046senior\051\073) Tj
+T*
+(    gross \075 price \052 qty\073) Tj
+T*
+(    discount \075 senior \077 gross \052 0\05615 \072 0\0560\073) Tj
+T*
+(    taxable \075 gross \055 discount\073) Tj
+T*
+(    gst \075 taxable \052 0\05605\073) Tj
+T*
+(    total \075 taxable \053 gst\073) Tj
+T*
+(    if \050total \076 1000\0560\051 total \055\075 50\0560\073) Tj
+T*
+(    printf\050\042Gross \075 \045\0562f\134\134nDiscount \075 \045\0562f\134\134nGST \075 \045\0562f\134\134nNet \075 \045\0562f\134\134n\042\054) Tj
+T*
+(           gross\054 discount\054 gst\054 total\051\073) Tj
+T*
+(    return 0\073) Tj
+T*
+(\175) Tj
+T*
+ET
+Q
+q
+1 0 0 1 54.18898 293.5354 cm
+q
+0 0 0 rg
+BT
+1 0 0 1 0 15 Tm
+/F1-0 9 Tf
+12 TL
+(Sample\072 price \075 200\054 quantity \075 3\054 senior \075 1 gives gross \075 Rs\056 600\05600\054 discount \075 Rs\056 90\05600\054 GST \075 Rs\056 25\05650 and net \075) Tj
+T*
+(Rs\056 535\05650\056 Time complexity \075 O\0501\051\073 extra space \075 O\0501\051\056) Tj
+T*
+ET
+Q
+Q
+Q
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+0.85098 0.894118 0.92549 rg
+n
+80.8 607.8898 136.2 18 re
+f*
+0 0 0 RG
+0.5 w
+n
+81 607.8898 m
+514 607.8898 l
+S
+n
+81 625.8898 m
+81 607.8898 l
+S
+n
+514 625.8898 m
+514 607.8898 l
+S
+n
+217 625.8898 m
+217 607.8898 l
+S
+0 0 0 rg
+BT
+/F2-1 10 Tf
+12 TL
+ET
+BT
+1 0 0 1 87 613.3898 Tm
+(GitHub Link) Tj
+T*
+ET
+0.05 0.27 0.7 rg
+BT
+/F1-1 8.2 Tf
+9.84 TL
+ET
+BT
+1 0 0 1 223 613.6898 Tm
+(https\072\057\057github\056com\057chandpulusugopi\055web\057CSA0229\055\055Gopi\055Chand\055\056git) Tj
+T*
+ET
+Q
+
+endstream
+endobj
+6 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+7 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+8 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+9 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Courier
+/Encoding /WinAnsiEncoding
+/Name /F3
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Symbol
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/BaseFont /Symbol
+/Name /F4
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/A <<
+/S /URI
+/Type /Action
+/URI (https\072\057\057github\056com\057chandpulusugopi\055web\057CSA0229\055\055Gopi\055Chand\055\056git)
+>>
+/Border [ 0 0 0 ]
+/Rect [ 220 607.8898 512 625.8898 ]
+/Subtype /Link
+/Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/Contents 18 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 19 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+18 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1017
+>>
+stream
+Gau`Q?#SFN'Rf.G>]hM'/'S\4"Oq9!m944%VmT^8Vb!"C*:O4l[2g)&qsV.?80ArOGZuACZ$l($pRH$ZK86XK5Ec8dAH_I>I.2IoA`*f2!7<B'8$.Q4^Y:aS>^nRKO!"i9m[ucM0FjFTDs[;[+h7Ji(kb)_K>@6!+in@*F8@af+//p*oI>ZJ!H@IR&GLK<pbid`T3j=@'MQF;MW=rg9Q5fY!59")=)k,?d8,ST)HQV-*b,s*12FZE]S4>=[=sVM$.$>+$;NFQd'`pL)oRn3U4i`H`DXNu7QE0)+K(V3`DR%:5t5l`>qgiamH[*G/26(HkquBF#DB"ZKiA$g\gl!&<f*VOiW:GnccYT:<Bqf5>)G[GpLQVpUTbNpoM3h.a9Bs.HUf>q<TQGC$:Pr"B([<hX]o:Nef2Vm]YI_-/"JHSc9Bg\):st34BM"Q]Sjf%MFs1OIO%=YnSTG/3q0c<"o-a.Za5S0UnkS`g]m*]r\Uo6#ii1r'("M?Am&!VckRhV"e)bHS)b95q-BK>N1,PR_iBYG?!+^E#@Ve_\PZ"&a1a3D!qRrh6>*QEE[>rsPqmbM70?E](a"2>GFGIQ^iu!7-"ZCDHCjQ!]&h/ri$5PZPoSauauE_cJ$3Bq[s,c+gZ$6lr94mP$_KTPT/gRI],?e>>>jsT)6-t(WH,6r]rij+$D,lN*b3*YVBC,t.1^_NAp&UQNOHSKG%caOUcf^S&c6IK1L!U[:]ctL(*'YgHA[A6YTsS7VGt-GK9Lc9o=Y$tl2hHR"liMuH(^83au3$.llJ\?A4gE-AjPQY_78YcALNNppXVVfj^--k2-5smJ)7GOch.>m%.PEQrNpu3#PF<g=?7]`8sT_Qk%mf?,qWLk9.R4LDLO-XP#P>G;JrrsAhY%rd0*J&T&K$`Z8XhQZdmR$9]jJ;aAa!dd+;etcn:#V*XX5K%4Mi!4_Vu$Teiu`U=bmY)b."7,+g4cCXR$-R]Uc%C[?"&>X3dQ8O+kiWTcjAp>aG.O.c.^9W(u?~>
+endstream
+endobj
+19 0 obj
+<<
+/F1 6 0 R
+/F2 9 0 R
+/F3 12 0 R
+/F4 14 0 R
+>>
+endobj
+20 0 obj
+<<
+/Contents 21 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 19 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+21 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 917
+>>
+stream
+Gat=)s&7W*'`["(if0K2G,8uI:f,=F*R*?=TW>j#[L3Whe$^f!eN;snp:[7u&S.KAGGRl;hWN'T*s<RrM0Y+*JAV@Noa$X/";;o\m6Yanh-fF?%Tu3N?(3[?XX8:!h6,Ap0(-VggM&[DeH!5D2-c2m?$?VF)Bbn=R$6Sb2$bCZW%K7Y)PD1YK<SNr^__138$)8e;3ab`?rJZm'6#CG4G?/*DRj<)T//c5+s_i<#+SS2-,Xa@JmT(:e6L>iIZCVDb1AAklg-I!a>hO%m&Gfr-%[HuK/AmA)RD/WAlJbq5\"J.L0T:30XWc0bi?U_\$*i'"aZ<hYh(nY##uXbNjABt^)qP\62(F:NQm]G;hN9BJIS0HU69'0X@8)f')H87b?F4,,M0Lg&8[McLapB`""NLMmHD=@biIBkZV>^K7fRfVO06qdK*/*m4L&PdS/[C8#jsLV^11lJ5-[qX?aU['r0h1Bq(=erk8U%>.;ua8c$h!Z\@*M2i3@lR=GH^#0An.D8js-irno4J.3'>kTZ?s@0-Et9YD;rSIp[o+P3MV-]cQ@W99Spr0&L&<=OJ["Z=DfS+.R0j&`nggPOQhUCVX`n:\&%hH?,jj3+6B2AQ@@Ud*C$bgftsR/6sFf%6bKWKCH7C7a6GHHi#L5q[Pe?("=p5Q0'$OoW:F6D&A#h%j]-5cVPn+]qSH\5[Ee-L3UZVlP]S2\IE]Z&H8k1+2I8mj>o@m=D?EQ#.S%mbF[I@U^R.-!pnlAYI@rZU@->BfQ<0eHACfDhUj3fGB5[Z-3Fo6jC;-D"%Q_:+kY<l\n8r2h9s[se+tguoSdblclEMDN9*(,$!A&'fUs2So).UdDWl5cUaa$JnVNDeFQmJIa:4"%fAK4/MI'^r+27la:[s5Y$B$XN;hBUkdh,gQZ`s$34Fd&h~>
+endstream
+endobj
+22 0 obj
+<<
+/Contents 23 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 19 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+23 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 859
+>>
+stream
+Gasam9lJ`N&A@ZchPCQY`:4aqV]UMdoTH52ihJ/b]mu$Gl0a_5C@^7DCD5/n:hiWJO6>oCR@Uh1@+3:;S#q65Jr;&[F-+V^>g#QVK.fgbB92GASnkSbN'[YuB6b`JV0*K\m)We$%r2mSDSTY*/n9GC\`cmcf$TG<XGOf>U$rIVs3='u3'Ka0`-F)X%F9)=;+mk.6>+Kf8GbTbEOf!3@"@;CP4tiT4*lsQk5JYTh1Q:H1!Js\fr-@<BaXYcGqLf2<N]e![OI*e2Ep,LLp1m:LqN6h6/r-gRge77So;9B+hYhdN->`RKpa@T8,>qEVH2FVlE+(jO`_pSMO2oj7J4I>,.HFseK6eWYO?A*R+HB'[2/QiQi'hO[V^_8q]c5E1Pr'p5?i/bL"V-DC=$(l>E7THAY=f*PkLRX5#AhgV\Y%`-8V?lcs'Z3m.8olX**e`]<rFXs!P:$19Lc!io>S<mKi4k#WbYha,Ef&Jj!^d$KLS0=/Rb/*cl`4PD_HYQ?j(1*e9hDn+kMDNt%S=jBKJB*Rf-TPfBf]<]QM#+DoT#@a]AJfJ&3'7c22i;*6Su2V*rK/#-rk]dUTQau7h1ioq#_1$:+EBseO6ZTJ1O[-In@S*`2OZ$s\p(J5Fm!]);#$:P-t,-QrDPu*k>Z96`3=`5*L$fcZBWbRO+O<W080:L$Q$7/7/P#i$b/s4]7K94e4hs6Lj=$h%ndS%t/PP2/p<q0<A^f;Tc7=8*ZR?d/N<mZu$CJc6*"W_^l3iO^/@E]*be<O0mZE@9`%<Rer<cP-`Bl:hJJTTZ#:T0"RmNiHd3it86Gt$uK)]H&WHp`9Wql=gX8__]@gh!Cr'Og7aE(oKo!VM>8!<~>
+endstream
+endobj
+24 0 obj
+<<
+/Contents 25 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 19 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+25 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 944
+>>
+stream
+GasIe@;jmY&H/2-n_bR@h0Or,a]9*')n%X*#'="*$0[/E(c[A\3D6/8;Fucjs*[DWET4o&.9MmXa*[7rmuAQgMhQN6!Pas\\mSnPauNQ>ALKe$]KE\f?lRE`(9uo[iYZr)M'hI4UO?[5iZ`!R'N(;pZ^`2-A;oVKR)K*FA6YE8AOd<R"2r+[$pRK`--6kiFKZ\>;W*`s/%jJ+i88J2pn79ueM,%9goP<L)PR'>jVq"_,@131AP_R0_>Kg^8+/d]73Ics1)JYPD.G$PKQU0E`fL\Y67CYCQ>dc8;Ud3RnjZf"/GcdSk\8f;Sf7^*[=b&<7JMN'=E7&+b^&S(p;.+'KHYiJ.'e94a[85P2XGbU^g!jRs,D73?p!5RY69Z1XNWMM<9E\mLq,DaG>9trh!ip[9(M3@?E=id'[EieCAfDXh=ciDWHF3MdINVUJ#U(srrapS@BZb;.++^<C&q=on9sU/>&m@CXDj&M9LcPK.)`G4(Li9bJL&O&binNfN.aBHV!#4*?UTBqE9R%d+at0gDWbls_]F6oFu&Eo<7UJ-bN8ul/lVcF$ZZ,OjC>DR*[<=?&KYY_GPa-)!n*Z"jG.Q8g5Em?@HHY%E,aJ'-TJIJ/N"@YUAQcqiVfFhp11fTEW6c+/,s%.'+?LmJ:i,DNFr([M"g*FC2Qhd9r@.cHSNY:p#>f![A^&]$.\aOZR7/A"I:jI*4@\:6-^i)0C&LOKT\ApG&*jk_HG56EI9&`ri1^(qU%a?K3G+nFCWt"j/^c,aWOSspKQq^D86&i7rb+q;hjiY_jXeE=k.a.7bbj_B/o7Hf0ng]r%/)[1l[<4_k"4M9G&Ed1=XabV=C4gPN6^V"tDA#D)7?XHXS1FqL2L41nluRMkJj?@4_qh#<$R06/\)onKRl`X3p^6JL;2h4@-gL-/(&98=L>'Z[9j@7gT\)#F)Qt*<~>
+endstream
+endobj
+26 0 obj
+<<
+/Contents 27 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 19 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+27 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1234
+>>
+stream
+GasaoD/\/e&H88.EU/_'BbX=lS)kq+YQ6=PTLIbnD[$DLU15bfkttEc@d&=!OV7=r4&%"dY]]]q4nk[4;Xj4Rp6en\J$._=2\]p*X"D\S7'LtBY?,B:SC((fNX/A.71/X39]@ad&;O`S07:?%J;!M>RSt>K7-Qf7Fa&QuC%!C%<J<%,k9;eoAtK]<#=/F[,ST[8n(G1-$OpIK*RC4<_g7WcH`$5sou.*9reArR6g>?AVhg&cLmW,"LGXU.bCd[KdKhC`5N$N_TY"+E4VTd'9qg5E?Yju,R[SlcE=bjPi<nW].Ok"m2Msh9\/4^55Tt[>%npN(^h]8'=sX\7<b>(J1e/#"'sG$#ME)@hZue%IN;X29%GWbb"B*lc`A2:9GBkA$<nRH,6Enm`5TrZqI^9YfaT`EG2b;sZ&nb$BX=Vb#ad"RkMP6V.AL;`tR-s=T&9k?1-.DYLC+k^PUBJ=__'dPF+SLQlS:=Lc.ojQqk4qNEfM_sIF-<sh$"6SFF"D-)IP!rg2E?P^>3CSb]A&p\iE!3MXCi'LaO_6t?S;JnEnT+)FmPG[ICtC)RGc>>r#K%7JuHBeQOn6U/N#'YEn+sQ;m<*.MID0:;;51<RH&='d!cBV?Zq5E#S[4dJe9<>kJEHql/K7&8omDJJR7#cNtIDtjg%As.iecl6f!d>OM*iAa1B5*'B1ie*>cr9J:97Q8,R*.5IU"pDq]l>oq<Cd$>;%rNm#UU_-UR&g\'pPGn0!_fH*0+G_m6n&Su:7Es;)';kW1>%1/Eur]]_SEDT:I__;ab\\;uPe.U'uCKQukNn`UWGu&eFO<Q>nr\OjAeBNZj9$S-siN^`kS<MUph$>;YM*nV,lUHa$Vt>BmHqoWl-sA_pqnpCPg&FMk90"NrR&&%c_.hleVsh#5EN\#h&Y&q:H/G>c0/..UK2"3akjrS$Ap0i,XH^-g&7+Boed%IdXk%W-,++gl8Mi/1hBcKAh`=;Q!"!UrVGg%H714uk*@)P!d/f[g8/b6cJJY5K;!O/4i/DM`e)Fh/P/-BAP0;,n%_O%qa?9)iB#$f1%bhZKl@<g#5I#PZqKrC46cX0K]\STlXP<#aMIY>o4_a"@^MLs?*RF,E`Y/H3/)7pl5G32F1W7hRHrh`77_`]9Hs'FYnFm9TKZ<eAe]UBfo")8"%g$*qarD0(M*BTUYMmBF<oNDn7>4qf410*a&(?IcUaY=(i^j194i=VH6)*<(IuQ"tg&~>
+endstream
+endobj
+28 0 obj
+<<
+/Contents 29 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 19 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+29 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1710
+>>
+stream
+Gat=+a`?,q&A@rkqN<<gA((S"7<HKRB5tpIEP/8_0##+8,U"<3"T[rbn#$1=,0/2r8EGQlDW(2'oE#(XIYmrm'`d^#E,n6p">HAK$,$nI?f9E*i5Ykt25AMCP=[fd,`00I*//']@a@huP/cF>P;l5AGYq"&&qa@-i0pItAdm,i[g8ES,.k\T2M$W+LuBSV$R%AhJibl#RP+e?0nXshc=bW\GSlPt>Z(0"59(`]oG^K]>'.7K*C:Td&c,9#IlnK3iI"B@T"s<qB0"-DS&%_=KqcO8gd_''0A*NXMasWe>I*TW;]\W!%&Dkj/nb^u1J9a/KGrJV;_Kib:L$NrF!V2"^do"HqT21Yg[hq(gIFRm\3OO23E6Gf@5r",+.4G,Y[V?"<M?+ZiWVpt=N7_F\93MCgOgs'ASQag$B:%7"4qJuUN<UJg1fGqOeYCN'r.'d`<sc,%&l$V)\#b$0W=IhNQE&IrpIUJjWAHH.Ldr."sFrbN^-6Md#sqm\H5b<h9nU\6>?T(%'Hmshf5*$npA%"mIqZ,5CUL+_Ok03rAS4:#?B6I%bZ]#ija#(0jWoG*mm?oAn>#j:`h2JDpQV`_2I?5:@&8C#7pD7GJioLg%NRR%i,:=Oh\^'P33Z#Gis0<B1VV#E"D@GL4L-ERrJkD;e,r`Dc$2p%"+NgGY74aj>61Tcc#r,fo*emFtES?nM%=9<)OX$osKLl/=Pbm\On"DQL@+2PklsXDf-8qq*>H2_],W>L.W#4hP@.T@n8^`SPkf+k?gD[hd'"W]Rn<.lbO7;@KZE[''g_u!rVOJ])<+j;[f`VQ%6'i;n0BM]_^,ZK/3dZDd$mk;GVYfG3Ob/f4+X1\nA?&LHg=],dge$`">(!C[D)`8c.]PL1/(V@H?`Qp:A*u-$2oR]F$c,+nn3H;4Xt!.A<p,p<<iE+3$T/\A3%5lV&'EWAul=B5X%165SiY9DtAm`YLG$!3VDt9I"?k<95e1*:PZ7g"P.\gVrp/CV"4!LnTfamsB&9V@\L<io3ZV+*[H+.<]q5Rg)`Wg5Q8>V7:(TH9R/u3(>>4q"`Yc2V7^%2&b8YK/gl5_Eo;Lg@F-Pf$R&uD\C)9CfIU-Al,%b@3^q)L_M4lB)OcM[i16GqFP[mBoMIbg$\1;;/(qQ;<gj(A;;t#?F0faXZ+pa\5mZNC03?JO>n8>o+#SriXTYVeQQXog/fiqX)7>-GBcVL9%"aTes[O[DB[T"P7;gi``d:2I8Rm'I`B!ogX4hGA#5Zl)n]L4GS$UohnS[DgOU0oC#"a-rP*QK%reCqDXt2;B.Q7.E:3qCp\i_C>-F\U]M&r["o-RQYaTY:ps]ShEE@ZdN<$"N7t=C#+Rs6)/VNhkKg6u!`MsZ^%r2FJ8O]LtTR!KT\!njc(m;<M%P%\BI7nXrFl9d2=Ygjem)qN/_H)_Ma*)F=VG[brEG@"XlQ#TjUhVXO`9G9Sm:Ib@T,>5^&j'!'8mG,W`m3/bhG3j)M2^iLD8m6pWUC)6f"QWbf)mq?gC2pKlMD3SLRD*Ka(_%O1Kkt3e_Orq7-j[$h?g-3S5Efa$LBILO5`==^d?_D#2V#!;ufDi"pR^2rfp*Fj,Dt=`n`MPAtZ1Rj4[4MG$r,cIW7u)3'=2BJYiPd@6]ag[_JQXEW;KkL(Tk+XlC<#jG4^E<!7jj\12gj4.a,6f[02dCNZa$R5)*h2*P#&]t-,;_1+CF$R5~>
+endstream
+endobj
+30 0 obj
+<<
+/Contents 31 0 R
+/MediaBox [ 0 0 595.2756 841.8898 ]
+/Resources <<
+/Font 19 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Rotate 0
+/Trans <<
+>>
+/Type /Page
+/Parent 2 0 R
+>>
+endobj
+31 0 obj
+<<
+/Filter [ /ASCII85Decode /FlateDecode ]
+/Length 1145
+>>
+stream
+GasbY>B?8p&BE],.J>L`e5QLfV/OYUD-B"]N]@W@aU8.&<f[8'8L0L<h\F4;3hbtd&hNL$GCM-">m^^![/$=/!1+">r(M[QODKLENXs5EDN`]Q1MW3!GA%]0&VM<IR)aUH6aK-h6K8%cf04UP:aC6@$q\&^(pC^`0$qCEE/BFtQkRG)jJ"fZiSsIrh-p\[Ioi\i_[fl)?/t\&ea6siH[c9%?Z3*]05iek4%OfenfHq'De*/6Vrs&,6bM%Z+Wr#dW8U*FT2L'V0(WS*>8j]\"lEl$()"M)c'$!<rJWQVgQJ!D8@(slh4m90!Ua609"e?Y>\R'#-etsZ%%J^OW8G^\l6rsI[9i&Y$qoilX&T(r`nKSAr^>kqQAV9oZ,1u9cZmaYN.6@WW@AR\(=,=^6<`N58tkt_fB895\DV3EJl/]TF3fD?iFZFg4jSf*C8$2CVh[=(hWGru]),DK0l&e^1E9G>.J/Np*3(6MWNN$XPM`rGmR%i"kpQ8;oN'!CMU08M3=PR)FLFDthtg(0BD0o^1\n.j=]IuBA3W[`E7!aQQb,$beiB7PnEhNmT^3f&DHWe^*0?rsd9IH]r0t<+h4lD-f3ZQ*c47bWY!ooP.j`[MC_o*5@TPHQGVqqh2`ru.S[`uj3,OS`:DV,pa((?`3e8Uj,D.\I@t)>1T/2^>j.l,@oARk$kJ9gC+cF')RcOQ.NJS&QAFqYq#R?NL5h,Nu-<t^@2].s%fpPAf1?%e7MFXZ*Sh1os'D;]J7)4*KDj9,uU`X56--'0ASr>u!(4ESs&@Elqm+pZ3?iN%5\f&_$\!q)M$eTF^%0p!"PMNG`aqWiaEm0A-BLEFVH,2DZ[h[1R<Bh3b.D3fqi:2C_^4WJd3/RfV0"S,Wi+]X??;U$">(A#BS/$=?*Y,@`3k4CX8Y7_4<Qg=g<ol;A7!YkV';2A5q5Q3lH)^M&<e+m[GEap0C\m8+_)aFC4H0$MZV'4&au$!#D&E(&G$Sio<5-254Or)Up)LdPrO%*k=7h=;.X(/[W"lbB``Asjq'p0]8<iV$QtGXBRp>G\T0P$#Uu5GjRUPDKNnNCMAoYMq!GoT!:qFZ'W?LFc'aJO[=h@8rj"m$6o=A;QZbX^`[st,O>1T)j5rjS,e!rYHIKAMT<>,~>
+endstream
+endobj
+xref
+0 32
+0000000000 65535 f 
+0000000015 00000 n 
+0000000054 00000 n 
+0000000162 00000 n 
+0000000211 00000 n 
+0000000547 00000 n 
+0000009266 00000 n 
+0000009373 00000 n 
+0000009480 00000 n 
+0000009587 00000 n 
+0000009699 00000 n 
+0000009812 00000 n 
+0000009925 00000 n 
+0000010031 00000 n 
+0000010137 00000 n 
+0000010215 00000 n 
+0000010293 00000 n 
+0000010535 00000 n 
+0000010737 00000 n 
+0000011847 00000 n 
+0000011911 00000 n 
+0000012113 00000 n 
+0000013122 00000 n 
+0000013324 00000 n 
+0000014275 00000 n 
+0000014477 00000 n 
+0000015513 00000 n 
+0000015715 00000 n 
+0000017042 00000 n 
+0000017244 00000 n 
+0000019047 00000 n 
+0000019249 00000 n 
+trailer
+<<
+/Size 32
+/Root 3 0 R
+/Info 1 0 R
+>>
+startxref
+20487
+%%EOF
